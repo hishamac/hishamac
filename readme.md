@@ -1,7 +1,7 @@
 ### <div align="center">Hey 👋, I'm [hishamac](https://github.com/hishamac)</div>  
   
 
-[//]- 🔭 I’m currently working on a [Activity blog](https://github.com/hishamac/dpt-blog)  
+[comment]- 🔭 I’m currently working on a [Activity blog](https://github.com/hishamac/dpt-blog)  
   
 
 - 🌱 I’m currently learning React and Express  
