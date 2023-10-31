@@ -1,17 +1,13 @@
 ### <div align="center">Hey 👋, I'm [hishamac](https://github.com/hishamac)</div>  
-  
 
-[comment]- 🔭 I’m currently working on a [Activity blog](https://github.com/hishamac/dpt-blog)  
-  
+  <!---
+- 🔭 I’m currently working on a [Activity blog](https://github.com/hishamac/dpt-blog)  
+  -->
 
-- 🌱 I’m currently learning React and Express  
+- 🌱 I’m currently learning Javascript Frameworks  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
 
 <br/>  
 
